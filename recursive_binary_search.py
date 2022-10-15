@@ -3,6 +3,7 @@ Python 3
 Fredy H Lopez
 10/11/2022
 Youtube: Algorithms and Data Structures Tutorial - Full Course for Beginners
+Linear binary search has a smaller time and space complexity. Usually.
 '''
 
 def recursive_binary_search(list, target):
