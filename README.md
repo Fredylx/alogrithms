@@ -21,12 +21,3 @@ git clone https://github.com/yourusername/algorithms-python.git
 
 You can also [watch this YouTube video](https://www.youtube.com/watch?v=8hly31xKli0&t=6747s) for a guided tour of the repository.
 
-## Contributions
-Contributions are welcome! If you'd like to contribute to this project, feel free to submit pull requests with your enhancements, bug fixes, or new algorithms. Please follow the contribution guidelines in the `CONTRIBUTING.md` file.
-
-## Credits
-This repository is a fork from the original project by [Author's Name](link-to-original-repo), and we appreciate their work and contributions.
-
----
-
-[License](LICENSE) | This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
