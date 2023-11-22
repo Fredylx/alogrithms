@@ -16,7 +16,7 @@ This repository is a comprehensive collection of algorithms and data structures 
 To get started with this repository, you can clone it to your local machine:
 
 
-git clone https://github.com/yourusername/algorithms-python.git
+
 
 
 You can also [watch this YouTube video](https://www.youtube.com/watch?v=8hly31xKli0&t=6747s) for a guided tour of the repository.
